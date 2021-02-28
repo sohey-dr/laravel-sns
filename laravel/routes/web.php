@@ -2,6 +2,7 @@
 
 Auth::routes(); 
 Route::get('/', 'ArticleController@index');
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
